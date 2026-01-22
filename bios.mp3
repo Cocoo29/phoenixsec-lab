@@ -1,0 +1,4 @@
+useEffect(() => {
+  const audio = new Audio("/bios.mp3");
+  audio.play();
+}, []);
