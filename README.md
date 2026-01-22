@@ -1,4 +1,5 @@
-# 🧠 PhoenixSec Lab — Cyberpunk Portfolio OS
+#  PhoenixSec Lab — Cyberpunk Portfolio OS
+> "An interactive cybersecurity portfolio disguised as a cyberpunk operating system."
 
 > Cybersecurity & DevSecOps interactive portfolio built as a fake operating system interface.
 
